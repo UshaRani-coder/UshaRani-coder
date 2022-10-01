@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Full Stack Java Script Web Development from Ineuron**
 
 - 📫 How to reach me **ur66026@gmail.com**
-<img align="left" alt="image" width="400px" src="https://www.pluralsight.com/ " />
+<img align="right" alt="image"  src="https://www.pluralsight.com/ " />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rani_ur66026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rani_ur66026" height="30" width="40" /></a>
