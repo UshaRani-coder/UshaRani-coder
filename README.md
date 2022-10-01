@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **ur66026@gmail.com**
 
-<img  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsanjmgr.netlify.app%2F&psig=AOvVaw3Qe4L9hIxgcD50WrUOPkng&ust=1664694998517000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOCqueedvfoCFQAAAAAdAAAAABAj " >
+<img  src="![gitsetup](https://user-images.githubusercontent.com/109506144/193398277-d399a55f-0a47-4ca1-b34f-60ace6216e02.gif)
+" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rani_ur66026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rani_ur66026" height="30" width="40" /></a>
