@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ur66026@gmail.com**
 
-<img  src="![gitsetup](https://user-images.githubusercontent.com/109506144/193398277-d399a55f-0a47-4ca1-b34f-60ace6216e02.gif)
+<img align="right" alt="gif" width="400px"  src="![gitsetup](https://user-images.githubusercontent.com/109506144/193398277-d399a55f-0a47-4ca1-b34f-60ace6216e02.gif)
 " >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
