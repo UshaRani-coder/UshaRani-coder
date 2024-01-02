@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usharani-coder&label=Profile%20views&color=0e75b6&style=flat" alt="usharani-coder" /> </p>
 
-- 🌱 I’m currently learning **Full Stack JavaScript Web Development**
+- 🌱 I’m currently learning **FrontEnd Web Development**
 
 - 📫 How to reach me **ur66026@gmail.com**
 
