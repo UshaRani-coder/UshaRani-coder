@@ -31,7 +31,7 @@
   </a>
   <a href="react.dev" > <img src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/2945110.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcwNzYzODY4MSwicSI6bnVsbCwiaWF0IjoxNzA3Mzc5NDgxfQ__.a87cbd16ed742c74c0c7ae434c70837a849ed526d45032b90f7db5dd91eeb6fb" alt="ReactJS" width="40" height="40"/> 
     </a>
-  <a href="https://react-redux.js.org/" > <img src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/3032308.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcwNzYzODg4MSwicSI6bnVsbCwiaWF0IjoxNzA3Mzc5NjgxfQ__.24817884cd607967f612e24a678eba915765acad26eb846d50e7cbc075656c6c" alt="ReduxToolkit" width="40" height="40"/> 
+  <a href="https://react-redux.js.org/" > <img src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/283024.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcwNzYzOTMxOSwicSI6bnVsbCwiaWF0IjoxNzA3MzgwMTE5fQ__.b4cba4317363c27e20f496690fe9663d2a8b5081b19ef51d4814e078d111c59f" alt="ReduxToolkit" width="40" height="40"/> 
     </a>
    <a href="https://firebase.google.com/" > <img src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/2944871.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcwNzYzODkzNywicSI6bnVsbCwiaWF0IjoxNzA3Mzc5NzM3fQ__.3ae37f0ec92fe0d1ec1ba043d2b1134ae495b39e6299717bffdff0bfd3502523" alt="Firebase" width="40" height="40"/> 
     </a>
