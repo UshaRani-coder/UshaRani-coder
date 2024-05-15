@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usharani-coder&label=Profile%20views&color=0e75b6&style=flat" alt="usharani-coder" /> </p>
-<img align="right" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="273" height="245.23728813559322" alt="New Game Ahagon Umiko Programming GIF - New Game Ahagon Umiko Programming Work GIFs" style="max-width: 273px;">
+<img align="right" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="350" height="245.23728813559322" alt="New Game Ahagon Umiko Programming GIF - New Game Ahagon Umiko Programming Work GIFs" style="max-width: 273px;">
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
 - 💬 Ask me about **JavaScript**
